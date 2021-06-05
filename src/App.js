@@ -2,6 +2,7 @@ import Expenses from "./components/Expenses";
 import "./components/Expenses.css";
 
 function App() {
+  //hi
   const expenses = [
     {
       id: "e1",
