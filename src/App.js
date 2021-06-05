@@ -26,6 +26,7 @@ function App() {
 
   return (
     <div>
+      <h1>testing</h1>
       <h2>Let's get started!</h2>
       <div className="expenses">
         <Expenses items={expenses} />
