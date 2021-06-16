@@ -14,6 +14,4 @@ function ExpenseDate(props) {
   );
 }
 
-//test comment for test commit
-
 export default ExpenseDate;
